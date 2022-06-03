@@ -1,6 +1,6 @@
 # About me
 ## 👋🏽 Hi, I’m @ashleybrad12
-I am an aspiring Software Developer with a strong interest in technology. I worked hard to gain technical experience through education so that I could be exposed to new technologies. I have developed detail-oriented and problem-solving skills as a result of my previous experience, which will help me excel as a Software Developer.
+I am an aspiring Software Developer with a strong interest in technology. I work hard to gain technical experience through education so that I could be exposed to new technologies. I have developed detail-oriented and problem-solving skills as a result of my previous experience, which will help me excel as a Software Developer.
 ## 👀 I’m interested in ...
 - iOS Applications
 - Web Development
