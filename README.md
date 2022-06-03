@@ -1,9 +1,10 @@
 # About me
 ## 👋🏽 Hi, I’m @ashleybrad12
-I am an aspiring Software Developer with a strong interest in technology. I work hard to gain technical experience through education so that I could be exposed to new technologies. I have developed detail-oriented and problem-solving skills as a result of my previous experience, which will help me excel as a Software Developer.
+I am an aspiring Software Developer, located in Maryland with a strong interest in technology. I work hard to gain technical experience through education so that I could be exposed to new technologies. I have completed Udacity's Intro to Programming course where I learned skills such as HTML, CSS, JavaScript, Python and Git.
 ## 👀 I’m interested in ...
 - iOS Applications
-- Web Development
+- Android Applications
+
 ##  I’m currently learning ...
 
 HTML, CSS, JavaScript and Python
